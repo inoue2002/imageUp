@@ -1,0 +1,27 @@
+{
+  "name": "imageUp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkan2002/LINEBot-template2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youkan2002/LINEBot-template2/issues"
+  },
+  "homepage": "https://github.com/youkan2002/LINEBot-template2#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
